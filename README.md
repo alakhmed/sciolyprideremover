@@ -1,4 +1,4 @@
-<h1> This repository has been moved to ka-studios/sciolyprideremover<h1>
+<h1> This repository has been moved to ka-studios/sciolyprideremover</h1>
 
 
 Install the extension here:
