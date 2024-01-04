@@ -1,3 +1,6 @@
+<h> This repository has been moved to ka-studios/sciolyprideremover<h>
+
+
 Install the extension here:
 <br>
 <br>
